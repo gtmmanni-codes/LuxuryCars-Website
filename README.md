@@ -37,3 +37,5 @@ This project was created as a frontend web development project inspired by real-
 ## Author
 
 Gautam Manni
+
+<video controls src="20260517-1435-03.4523232.mp4" title="Title"></video>
