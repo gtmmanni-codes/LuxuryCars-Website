@@ -46,3 +46,8 @@ buttons.forEach(button => {
 
 });
 
+//cards
+
+const cards = document.querySelectorAll(".card");
+
+
