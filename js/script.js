@@ -23,7 +23,7 @@ if (contactForm) {
     });
 
 }
-
+//// new animation update
 //button
 const buttons = document.querySelectorAll("button");
 
@@ -42,7 +42,7 @@ buttons.forEach(button => {
 
     });
 
-    
+
 
 });
 
