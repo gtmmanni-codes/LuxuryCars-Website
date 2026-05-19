@@ -36,7 +36,11 @@ buttons.forEach(button => {
 
     });
 
+    button.addEventListener("mouseout", () => {
 
+        button.style.transform = "scale(1)";
+
+    });
 
 });
 
