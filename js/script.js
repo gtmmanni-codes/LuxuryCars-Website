@@ -66,5 +66,5 @@ cards.forEach(card => {
 
     });
 
-});
+ });
 
