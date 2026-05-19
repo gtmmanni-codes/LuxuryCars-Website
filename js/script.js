@@ -7,3 +7,20 @@ window.addEventListener("load", () => {
 
 
 
+
+//contact form
+const contactForm = document.getElementById("contactForm");
+
+if (contactForm) {
+
+    contactForm.addEventListener("submit", function(event) {
+
+        event.preventDefault();
+
+        alert("Your contact form has been sent successfully!");
+
+        contactForm.reset();
+
+    });
+
+}
