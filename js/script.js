@@ -23,3 +23,20 @@ if (contactForm) {
     });
 
 }
+
+//button
+const buttons = document.querySelectorAll("button");
+
+buttons.forEach(button => {
+
+    button.addEventListener("mouseover", () => {
+
+        button.style.transform = "scale(1.05)";
+        button.style.transition = "0.3s";
+
+    });
+
+
+
+});
+
