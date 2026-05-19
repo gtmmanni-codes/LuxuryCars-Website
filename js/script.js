@@ -14,7 +14,7 @@ if (contactForm) {
 
     contactForm.addEventListener("submit", function(event) {
 
-        
+        event.preventDefault();
 
         alert("Your contact form has been sent successfully!");
 
